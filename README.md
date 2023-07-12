@@ -1,5 +1,5 @@
 # Hi there, I’m David! 
-## I am studying Information technology in industry at the Technical University of Sofia.
+## I am studying Information technology in the industry at the Technical University of Sofia.
 - Currently learning Java.
 - Reach me: david.nikiforov@abv.bg
 
