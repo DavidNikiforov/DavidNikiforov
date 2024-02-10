@@ -1,6 +1,6 @@
 # Hi there, I’m David! 
 ## I am studying Information technology in the industry at the Technical University of Sofia.
-- Currently learning Java.
+- Currently learning JavaScript and C#.
 - Reach me: david.nikiforov09@gmail.com
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=DavidNikiforov.DavidNikiforov)
